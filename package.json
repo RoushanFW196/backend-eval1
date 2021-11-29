@@ -1,0 +1,25 @@
+{
+  "name": "backend-eval1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "job.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon job.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoushanFW196/backend-eval1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoushanFW196/backend-eval1/issues"
+  },
+  "homepage": "https://github.com/RoushanFW196/backend-eval1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
